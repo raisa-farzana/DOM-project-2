@@ -8,12 +8,16 @@ body{
     border: 2px solid black;
     margin: 0 auto;
 }
+#colorCode{
+    font-size: 20px;
+}
 #copyButton{
     background-color: rgba(0, 128, 0, 0.741);
     color: white;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
+    margin-top: 10px;
 }
 #copyButton:hover{
     background-color: rgba(1, 83, 1, 0.89);
